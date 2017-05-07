@@ -1,0 +1,1 @@
+# spibox-home-assistant
